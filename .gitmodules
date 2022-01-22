@@ -1,0 +1,3 @@
+[submodule "AutoScriptBase"]
+	path = AutoScriptBase
+	url = https://github.com/TonyJiangWJ/AutoScriptBase.git
